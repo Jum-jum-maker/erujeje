@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+<title>Background</title>
+<link rel="stylesheet" href="cousera.css">
+</head>
+<body>
+
+<!--<h1>Background property</h1>
+<div id="bg">Background Properties are fun!</div>
+...-->
+<h1>Medaia Queries</h1>
+<p id="p1"></p>
+<p id="p2"></p>
+</body>
+</html>
+
